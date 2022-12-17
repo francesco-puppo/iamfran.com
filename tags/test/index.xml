@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>test on House of Fran</title>
-    <link>https://francesco-puppo.github.io/tags/test/</link>
+    <link>https://francesco-puppo.github.io/iamfran.com/tags/test/</link>
     <description>Recent content in test on House of Fran</description>
     <image>
-      <url>https://francesco-puppo.github.io/papermod-cover.png</url>
-      <link>https://francesco-puppo.github.io/papermod-cover.png</link>
+      <url>https://francesco-puppo.github.io/iamfran.com/papermod-cover.png</url>
+      <link>https://francesco-puppo.github.io/iamfran.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 16 Dec 2022 16:11:30 +0100</lastBuildDate><atom:link href="https://francesco-puppo.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Dec 2022 16:11:30 +0100</lastBuildDate><atom:link href="https://francesco-puppo.github.io/iamfran.com/tags/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://francesco-puppo.github.io/posts/my-first-post-copy-2/</link>
+      <link>https://francesco-puppo.github.io/iamfran.com/posts/my-first-post-copy-2/</link>
       <pubDate>Fri, 16 Dec 2022 16:11:30 +0100</pubDate>
       
-      <guid>https://francesco-puppo.github.io/posts/my-first-post-copy-2/</guid>
+      <guid>https://francesco-puppo.github.io/iamfran.com/posts/my-first-post-copy-2/</guid>
       <description>So, how does this work? It looks pretty neat.
 It even has a ToC feature This covers everything I need for my personal website and blogging platform. And this is a link .
 Is thi not working anymore?
@@ -26,30 +26,30 @@ body { display: none; } </description>
     
     <item>
       <title>My First Post</title>
-      <link>https://francesco-puppo.github.io/posts/my-first-post-copy-3/</link>
+      <link>https://francesco-puppo.github.io/iamfran.com/posts/my-first-post-copy-3/</link>
       <pubDate>Fri, 16 Dec 2022 16:11:30 +0100</pubDate>
       
-      <guid>https://francesco-puppo.github.io/posts/my-first-post-copy-3/</guid>
+      <guid>https://francesco-puppo.github.io/iamfran.com/posts/my-first-post-copy-3/</guid>
       <description>So, how does this work? It looks pretty neat.
 It even has a ToC feature This covers everything I need for my personal website and blogging platform.</description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>https://francesco-puppo.github.io/posts/my-first-post-copy/</link>
+      <link>https://francesco-puppo.github.io/iamfran.com/posts/my-first-post-copy/</link>
       <pubDate>Fri, 16 Dec 2022 16:11:30 +0100</pubDate>
       
-      <guid>https://francesco-puppo.github.io/posts/my-first-post-copy/</guid>
+      <guid>https://francesco-puppo.github.io/iamfran.com/posts/my-first-post-copy/</guid>
       <description>So, how does this work? It looks pretty neat.
 It even has a ToC feature This covers everything I need for my personal website and blogging platform.</description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>https://francesco-puppo.github.io/posts/my-first-post/</link>
+      <link>https://francesco-puppo.github.io/iamfran.com/posts/my-first-post/</link>
       <pubDate>Fri, 16 Dec 2022 16:11:30 +0100</pubDate>
       
-      <guid>https://francesco-puppo.github.io/posts/my-first-post/</guid>
+      <guid>https://francesco-puppo.github.io/iamfran.com/posts/my-first-post/</guid>
       <description>So, how does this work? It looks pretty neat.
 It even has a ToC feature This covers everything I need for my personal website and blogging platform.</description>
     </item>
