@@ -9,61 +9,15 @@
       <link>https://francesco-puppo.github.io/iamfran.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 01 Jan 2023 12:00:00 +0100</lastBuildDate><atom:link href="https://francesco-puppo.github.io/iamfran.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2023 08:00:00 +0100</lastBuildDate><atom:link href="https://francesco-puppo.github.io/iamfran.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Movies Roundup - Jan 2023</title>
-      <link>https://francesco-puppo.github.io/iamfran.com/posts/movies-roundup-jan-2023/</link>
-      <pubDate>Sun, 01 Jan 2023 12:00:00 +0100</pubDate>
+      <title>New Year, New Website - 2023 Edition</title>
+      <link>https://francesco-puppo.github.io/iamfran.com/posts/new-year-new-website-2023-edition/</link>
+      <pubDate>Sun, 01 Jan 2023 08:00:00 +0100</pubDate>
       
-      <guid>https://francesco-puppo.github.io/iamfran.com/posts/movies-roundup-jan-2023/</guid>
-      <description>The Crime of the Century ★★★★
-The kind of documentaries that is needed in our society. Even if you think you know enough about the opioid epidemic that has scourged the US for the last 20 years, give it a chance anyway because things are even more grim than you may think.
-Undercurrent: The Disappearance of Kim Wall ★★★½
-A chilling story which you should not watch on a rainy afternoon while cuddling on the couch with your partner, given how sad and tragic it is.</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://francesco-puppo.github.io/iamfran.com/posts/my-first-post-copy-2/</link>
-      <pubDate>Fri, 16 Dec 2022 16:11:30 +0100</pubDate>
-      
-      <guid>https://francesco-puppo.github.io/iamfran.com/posts/my-first-post-copy-2/</guid>
-      <description>So, how does this work? It looks pretty neat.
-It even has a ToC feature This covers everything I need for my personal website and blogging platform. And this is a link .
-Is thi not working anymore?
-Let&amp;rsquo;s check lists:
-I hope They are Good Enough And here is some code
-body { display: none; } </description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://francesco-puppo.github.io/iamfran.com/posts/my-first-post-copy-3/</link>
-      <pubDate>Fri, 16 Dec 2022 16:11:30 +0100</pubDate>
-      
-      <guid>https://francesco-puppo.github.io/iamfran.com/posts/my-first-post-copy-3/</guid>
-      <description>So, how does this work? It looks pretty neat.
-It even has a ToC feature This covers everything I need for my personal website and blogging platform.</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://francesco-puppo.github.io/iamfran.com/posts/my-first-post-copy/</link>
-      <pubDate>Fri, 16 Dec 2022 16:11:30 +0100</pubDate>
-      
-      <guid>https://francesco-puppo.github.io/iamfran.com/posts/my-first-post-copy/</guid>
-      <description>So, how does this work? It looks pretty neat.
-It even has a ToC feature This covers everything I need for my personal website and blogging platform.</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://francesco-puppo.github.io/iamfran.com/posts/my-first-post/</link>
-      <pubDate>Fri, 16 Dec 2022 16:11:30 +0100</pubDate>
-      
-      <guid>https://francesco-puppo.github.io/iamfran.com/posts/my-first-post/</guid>
-      <description>So, how does this work? It looks pretty neat.
-It even has a ToC feature This covers everything I need for my personal website and blogging platform.</description>
+      <guid>https://francesco-puppo.github.io/iamfran.com/posts/new-year-new-website-2023-edition/</guid>
+      <description>As in tradition, I redesigned my website for the new year. After moving to Webflow in 2021 and hosting a simple HTML site in Github in 2022, this year I decided to go back to Hugo for a few reasons.
+As much as I love Webflow, I can&amp;rsquo;t justify its price for what is, in the end, a passion project that I don&amp;rsquo;t update nearly as much as I should.</description>
     </item>
     
   </channel>
