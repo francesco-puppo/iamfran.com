@@ -21,5 +21,18 @@ As much as I love Webflow, I can&amp;rsquo;t justify its price for what is, in t
 On the other hand, a static HTML site is ok for a such a small site but it&amp;rsquo;s not sustainable when you want to have a blog as well.</description>
     </item>
     
+    <item>
+      <title>An Icon For mymind</title>
+      <link>https://iamfran.com/posts/1/01/an-icon-for-mymind/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iamfran.com/posts/1/01/an-icon-for-mymind/</guid>
+      <description>I couldn’t stand the default icon for mymind , so I made a quick one for it.
+Before:
+After:
+👉 You can download it here .
+To design it I used Figma and this template from Václav Vančura.</description>
+    </item>
+    
   </channel>
 </rss>
