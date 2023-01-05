@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on House of Fran</title>
-    <link>https://francesco-puppo.github.io/iamfran.com/tags/</link>
+    <link>https://iamfran.com/tags/</link>
     <description>Recent content in Tags on House of Fran</description>
     <image>
-      <url>https://francesco-puppo.github.io/iamfran.com/papermod-cover.png</url>
-      <link>https://francesco-puppo.github.io/iamfran.com/papermod-cover.png</link>
+      <url>https://iamfran.com/papermod-cover.png</url>
+      <link>https://iamfran.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 01 Jan 2023 08:00:00 +0100</lastBuildDate><atom:link href="https://francesco-puppo.github.io/iamfran.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2023 08:00:00 +0100</lastBuildDate><atom:link href="https://iamfran.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hugo</title>
-      <link>https://francesco-puppo.github.io/iamfran.com/tags/hugo/</link>
+      <link>https://iamfran.com/tags/hugo/</link>
       <pubDate>Sun, 01 Jan 2023 08:00:00 +0100</pubDate>
       
-      <guid>https://francesco-puppo.github.io/iamfran.com/tags/hugo/</guid>
+      <guid>https://iamfran.com/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>meta</title>
-      <link>https://francesco-puppo.github.io/iamfran.com/tags/meta/</link>
+      <link>https://iamfran.com/tags/meta/</link>
       <pubDate>Sun, 01 Jan 2023 08:00:00 +0100</pubDate>
       
-      <guid>https://francesco-puppo.github.io/iamfran.com/tags/meta/</guid>
+      <guid>https://iamfran.com/tags/meta/</guid>
       <description></description>
     </item>
     
