@@ -12,10 +12,10 @@
     <lastBuildDate>Sun, 01 Jan 2023 08:00:00 +0100</lastBuildDate><atom:link href="https://francesco-puppo.github.io/iamfran.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New Year, New Website - 2023 Edition</title>
-      <link>https://francesco-puppo.github.io/iamfran.com/2023/01/new-year-new-website-2023-edition/</link>
+      <link>https://francesco-puppo.github.io/iamfran.com/posts/2023/01/new-year-new-website-2023-edition/</link>
       <pubDate>Sun, 01 Jan 2023 08:00:00 +0100</pubDate>
       
-      <guid>https://francesco-puppo.github.io/iamfran.com/2023/01/new-year-new-website-2023-edition/</guid>
+      <guid>https://francesco-puppo.github.io/iamfran.com/posts/2023/01/new-year-new-website-2023-edition/</guid>
       <description>As tradition, I redesigned my website for the new year. After moving to Webflow in 2021 and hosting a simple HTML site in Github in 2022, this year I decided to go back to Hugo for a few reasons.
 As much as I love Webflow, I can&amp;rsquo;t justify its price for what is, in the end, a passion project that I don&amp;rsquo;t update nearly as much as I should.
 On the other hand, a static HTML site is ok for a such a small site but it&amp;rsquo;s not sustainable when you want to have a blog as well.</description>
