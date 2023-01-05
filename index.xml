@@ -16,8 +16,9 @@
       <pubDate>Sun, 01 Jan 2023 08:00:00 +0100</pubDate>
       
       <guid>https://francesco-puppo.github.io/iamfran.com/posts/new-year-new-website-2023-edition/</guid>
-      <description>As in tradition, I redesigned my website for the new year. After moving to Webflow in 2021 and hosting a simple HTML site in Github in 2022, this year I decided to go back to Hugo for a few reasons.
-As much as I love Webflow, I can&amp;rsquo;t justify its price for what is, in the end, a passion project that I don&amp;rsquo;t update nearly as much as I should.</description>
+      <description>As tradition, I redesigned my website for the new year. After moving to Webflow in 2021 and hosting a simple HTML site in Github in 2022, this year I decided to go back to Hugo for a few reasons.
+As much as I love Webflow, I can&amp;rsquo;t justify its price for what is, in the end, a passion project that I don&amp;rsquo;t update nearly as much as I should.
+On the other hand, a static HTML site is ok for a such a small site but it&amp;rsquo;s not sustainable when you want to have a blog as well.</description>
     </item>
     
     <item>
@@ -29,6 +30,15 @@ As much as I love Webflow, I can&amp;rsquo;t justify its price for what is, in t
       <description>about</description>
     </item>
     
+    
+    <item>
+      <title>Projects</title>
+      <link>https://francesco-puppo.github.io/iamfran.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://francesco-puppo.github.io/iamfran.com/projects/</guid>
+      <description>about</description>
+    </item>
     
     
   </channel>
