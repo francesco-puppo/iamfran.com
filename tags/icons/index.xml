@@ -8,18 +8,19 @@
       <url>https://iamfran.com/papermod-cover.png</url>
       <link>https://iamfran.com/papermod-cover.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://iamfran.com/tags/icons/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 15 May 2022 08:00:00 +0100</lastBuildDate><atom:link href="https://iamfran.com/tags/icons/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>An Icon For mymind</title>
-      <link>https://iamfran.com/posts/1/01/an-icon-for-mymind/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>https://iamfran.com/posts/2022/05/an-icon-for-mymind/</link>
+      <pubDate>Sun, 15 May 2022 08:00:00 +0100</pubDate>
       
-      <guid>https://iamfran.com/posts/1/01/an-icon-for-mymind/</guid>
+      <guid>https://iamfran.com/posts/2022/05/an-icon-for-mymind/</guid>
       <description>I couldn’t stand the default icon for mymind , so I made a quick one for it.
 Before:
 After:
 👉 You can download it here .
-To design it I used Figma and this template from Václav Vančura.</description>
+To design it I used this Figma template from Václav Vančura.</description>
     </item>
     
   </channel>
