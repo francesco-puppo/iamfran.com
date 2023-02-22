@@ -2,8 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://iamfran.com/tags/apps/</loc>
+    <lastmod>2023-02-13T08:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://iamfran.com/posts/2023/02/apps-stack-for-2023/</loc>
+    <lastmod>2023-02-13T08:00:00+01:00</lastmod>
+  </url><url>
     <loc>https://iamfran.com/</loc>
-    <lastmod>2023-01-01T08:00:00+01:00</lastmod>
+    <lastmod>2023-02-13T08:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://iamfran.com/posts/</loc>
+    <lastmod>2023-02-13T08:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://iamfran.com/tags/</loc>
+    <lastmod>2023-02-13T08:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://iamfran.com/posts/2023/01/maximum-viable-product/</loc>
+    <lastmod>2023-01-24T08:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://iamfran.com/tags/product/</loc>
+    <lastmod>2023-01-24T08:00:00+01:00</lastmod>
   </url><url>
     <loc>https://iamfran.com/tags/hugo/</loc>
     <lastmod>2023-01-01T08:00:00+01:00</lastmod>
@@ -12,12 +30,6 @@
     <lastmod>2023-01-01T08:00:00+01:00</lastmod>
   </url><url>
     <loc>https://iamfran.com/posts/2023/01/new-year-new-website-2023-edition/</loc>
-    <lastmod>2023-01-01T08:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://iamfran.com/posts/</loc>
-    <lastmod>2023-01-01T08:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://iamfran.com/tags/</loc>
     <lastmod>2023-01-01T08:00:00+01:00</lastmod>
   </url><url>
     <loc>https://iamfran.com/posts/2022/08/batman-the-long-halloween-and-the-power-of-comic-books/</loc>
@@ -47,19 +59,11 @@
     <loc>https://iamfran.com/posts/2021/01/books-i-have-read-in-2020/</loc>
     <lastmod>2021-01-01T08:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://iamfran.com/posts/1/01/</loc>
-  </url><url>
     <loc>https://iamfran.com/about/</loc>
-  </url><url>
-    <loc>https://iamfran.com/tags/apps/</loc>
   </url><url>
     <loc>https://iamfran.com/categories/</loc>
   </url><url>
-    <loc>https://iamfran.com/posts/1/01/maximum-viable-product/</loc>
-  </url><url>
     <loc>https://iamfran.com/archive/</loc>
-  </url><url>
-    <loc>https://iamfran.com/tags/product/</loc>
   </url><url>
     <loc>https://iamfran.com/projects/</loc>
   </url><url>
