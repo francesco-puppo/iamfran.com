@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>#apps on House of Fran</title>
+    <link>https://iamfran.com/tags/#apps/</link>
+    <description>Recent content in #apps on House of Fran</description>
+    <image>
+      <url>https://iamfran.com/papermod-cover.png</url>
+      <link>https://iamfran.com/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 13 Feb 2023 08:00:00 +0100</lastBuildDate><atom:link href="https://iamfran.com/tags/#apps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apps Stack for 2023</title>
+      <link>https://iamfran.com/posts/2023/02/apps-stack-for-2023/</link>
+      <pubDate>Mon, 13 Feb 2023 08:00:00 +0100</pubDate>
+      
+      <guid>https://iamfran.com/posts/2023/02/apps-stack-for-2023/</guid>
+      <description>As you will see, the one below is a pretty opinionated list.
+I avoid apps that try to do a thousand different things and end up doing all of them in a bad way. I much prefer simple apps that have great UX, beautiful UI, and a clear set of features.
+I also try to follow the concept of Max VP when selecting which apps to use and I try to focus on what I really need from them.</description>
+    </item>
+    
+    <item>
+      <title>Maximum Viable Product</title>
+      <link>https://iamfran.com/posts/2023/01/maximum-viable-product/</link>
+      <pubDate>Tue, 24 Jan 2023 08:00:00 +0100</pubDate>
+      
+      <guid>https://iamfran.com/posts/2023/01/maximum-viable-product/</guid>
+      <description>I recently found out about this concept which explains perfectly what I think a great product should represent.
+We can define the Maximum Viable Product (Max VP) as a product that has just those features that allow it to be successful and no more. Customer needs are being met.
+Instead of infinite grow (a concept at this point engrained in Silicon Valley companies) and the continuous adding of new features, a Max VP is a finely tuned engine that runs at full speed, where every feature has been carefully implemented and the UX is king.</description>
+    </item>
+    
+  </channel>
+</rss>
