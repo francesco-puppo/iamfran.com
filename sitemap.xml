@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://iamfran.com/tags/#apps/</loc>
+    <loc>https://iamfran.com/tags/apps/</loc>
     <lastmod>2023-02-13T08:00:00+01:00</lastmod>
   </url><url>
     <loc>https://iamfran.com/posts/2023/02/apps-stack-for-2023/</loc>
@@ -17,16 +17,16 @@
     <loc>https://iamfran.com/tags/</loc>
     <lastmod>2023-02-13T08:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://iamfran.com/tags/#product/</loc>
-    <lastmod>2023-01-24T08:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://iamfran.com/tags/#ux/</loc>
-    <lastmod>2023-01-24T08:00:00+01:00</lastmod>
-  </url><url>
     <loc>https://iamfran.com/posts/2023/01/maximum-viable-product/</loc>
     <lastmod>2023-01-24T08:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://iamfran.com/tags/#meta/</loc>
+    <loc>https://iamfran.com/tags/product/</loc>
+    <lastmod>2023-01-24T08:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://iamfran.com/tags/ux/</loc>
+    <lastmod>2023-01-24T08:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://iamfran.com/tags/meta/</loc>
     <lastmod>2023-01-01T08:00:00+01:00</lastmod>
   </url><url>
     <loc>https://iamfran.com/posts/2023/01/new-year-new-website-2023-edition/</loc>
@@ -35,22 +35,22 @@
     <loc>https://iamfran.com/posts/2022/08/batman-the-long-halloween-and-the-power-of-comic-books/</loc>
     <lastmod>2022-08-10T08:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://iamfran.com/tags/#comics/</loc>
+    <loc>https://iamfran.com/tags/comics/</loc>
     <lastmod>2022-08-10T08:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://iamfran.com/tags/#movies/</loc>
+    <loc>https://iamfran.com/tags/movies/</loc>
     <lastmod>2022-08-10T08:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://iamfran.com/tags/#downloads/</loc>
-    <lastmod>2022-05-15T08:00:00+01:00</lastmod>
   </url><url>
     <loc>https://iamfran.com/posts/2022/05/an-icon-for-mymind/</loc>
+    <lastmod>2022-05-15T08:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://iamfran.com/tags/downloads/</loc>
     <lastmod>2022-05-15T08:00:00+01:00</lastmod>
   </url><url>
     <loc>https://iamfran.com/posts/2022/02/a-dark-theme-for-write.as/</loc>
     <lastmod>2022-02-12T08:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://iamfran.com/tags/#books/</loc>
+    <loc>https://iamfran.com/tags/books/</loc>
     <lastmod>2021-01-01T08:00:00+01:00</lastmod>
   </url><url>
     <loc>https://iamfran.com/posts/2021/01/books-i-have-read-in-2020/</loc>
