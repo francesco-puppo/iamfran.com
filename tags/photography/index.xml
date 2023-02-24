@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>photography on House of Fran</title>
+    <link>https://iamfran.com/tags/photography/</link>
+    <description>Recent content in photography on House of Fran</description>
+    <image>
+      <url>https://iamfran.com/papermod-cover.png</url>
+      <link>https://iamfran.com/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 24 Feb 2023 12:00:00 +0100</lastBuildDate><atom:link href="https://iamfran.com/tags/photography/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Some photos from Norway</title>
+      <link>https://iamfran.com/posts/2023/02/some-photos-from-norway/</link>
+      <pubDate>Fri, 24 Feb 2023 12:00:00 +0100</pubDate>
+      
+      <guid>https://iamfran.com/posts/2023/02/some-photos-from-norway/</guid>
+      <description>Last year I was in Norway for my honeymoon and I was blown away every day of our road trip by the incredible landscape.
+Everywhere you look there was something worth shooting. Hopefully I was able to capture some of that magic&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

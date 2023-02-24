@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://iamfran.com/</loc>
+    <lastmod>2023-02-24T12:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://iamfran.com/tags/photography/</loc>
+    <lastmod>2023-02-24T12:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://iamfran.com/posts/</loc>
+    <lastmod>2023-02-24T12:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://iamfran.com/posts/2023/02/some-photos-from-norway/</loc>
+    <lastmod>2023-02-24T12:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://iamfran.com/tags/</loc>
+    <lastmod>2023-02-24T12:00:00+01:00</lastmod>
+  </url><url>
     <loc>https://iamfran.com/tags/apps/</loc>
     <lastmod>2023-02-13T08:00:00+01:00</lastmod>
   </url><url>
     <loc>https://iamfran.com/posts/2023/02/apps-stack-for-2023/</loc>
-    <lastmod>2023-02-13T08:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://iamfran.com/</loc>
-    <lastmod>2023-02-13T08:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://iamfran.com/posts/</loc>
-    <lastmod>2023-02-13T08:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://iamfran.com/tags/</loc>
     <lastmod>2023-02-13T08:00:00+01:00</lastmod>
   </url><url>
     <loc>https://iamfran.com/posts/2023/01/maximum-viable-product/</loc>
